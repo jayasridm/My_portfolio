@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/My_portfolio/static/css/main.87d5aa9a.css",
+    "main.js": "/My_portfolio/static/js/main.f1cc2001.js",
+    "static/js/453.c8246df0.chunk.js": "/My_portfolio/static/js/453.c8246df0.chunk.js",
+    "static/media/fa-solid-900.woff2": "/My_portfolio/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
+    "static/media/fa-brands-400.woff2": "/My_portfolio/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
+    "static/media/fa-regular-400.woff2": "/My_portfolio/static/media/fa-regular-400.1f38a564cd9eae27ebc3.woff2",
+    "static/media/fa-v4compatibility.woff2": "/My_portfolio/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
+    "index.html": "/My_portfolio/index.html",
+    "main.87d5aa9a.css.map": "/My_portfolio/static/css/main.87d5aa9a.css.map",
+    "main.f1cc2001.js.map": "/My_portfolio/static/js/main.f1cc2001.js.map",
+    "453.c8246df0.chunk.js.map": "/My_portfolio/static/js/453.c8246df0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d5aa9a.css",
+    "static/js/main.f1cc2001.js"
+  ]
+}
