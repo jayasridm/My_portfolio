@@ -38,7 +38,7 @@ const EducationSection = () => {
       issuer: 'Client Campaigns & Freelance Contracts',
       date: '2025 – Present (1 Year)',
       icon: 'fas fa-briefcase',
-      description: 'Manage end-to-end Social Media Marketing (SMM) and paid ad campaigns. Setup Meta pixel tracking, crafted high-converting ad copies and creatives, achieving average 4.2x ROAS for client accounts.',
+      description: 'Manage end-to-end Social Media Marketing (SMM) and Meta ad campaigns. Setup Meta pixel tracking, crafted high-converting ad copies and creatives, achieving average 4.2x ROAS for client accounts.',
     },
     {
       title: 'Digital Marketing Intern (Social Media Marketing)',

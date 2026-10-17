@@ -1,6 +1,5 @@
 import React from 'react';
 import { 
-  SiGoogleads, 
   SiMeta, 
   SiLinkedin, 
   SiCanva, 
@@ -9,6 +8,7 @@ import {
 } from 'react-icons/si';
 import { 
   FaBullhorn, 
+  FaInstagram,
   FaPenNib, 
   FaShareAlt, 
   FaCogs,
@@ -19,7 +19,7 @@ import {
 const SkillsSection = () => {
   const skills = [
     { icon: <FaBullhorn size={40} color="#3b82f6" />, name: "Social Media Strategy" },
-    { icon: <SiGoogleads size={40} color="#4285F4" />, name: "Google Ads (SEM)" },
+    { icon: <FaInstagram size={40} color="#E4405F" />, name: "Instagram Marketing" },
     { icon: <SiMeta size={40} color="#0668E1" />, name: "Meta Ads Manager" },
     { icon: <SiLinkedin size={40} color="#0A66C2" />, name: "LinkedIn Ads" },
     { icon: <SiCanva size={40} color="#00C4CC" />, name: "Canva Design" },

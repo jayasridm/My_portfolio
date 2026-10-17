@@ -11,7 +11,7 @@ const AboutSection = () => {
 
   const professionalInfo = [
     { title: 'Experience', value: '1 Year (Digital Marketer)', icon: <FaBriefcase /> },
-    { title: 'Focus Areas', value: 'SEM, Meta Ads, SMM, Content Marketing', icon: <FaLaptopCode /> },
+    { title: 'Focus Areas', value: 'Social Media Marketing (SMM), Meta Ads, Content Marketing', icon: <FaLaptopCode /> },
     { title: 'Languages', value: 'English, Tamil', icon: <FaLanguage /> },
     { title: 'Availability', value: 'Full-Time', icon: <FaStar /> },
   ];

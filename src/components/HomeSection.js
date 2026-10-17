@@ -13,7 +13,7 @@ const HomeSection = () => {
               Marketer
             </h1>
             <p className="home-desc">
-              Results-driven Digital Marketing Specialist with 1+ years of experience managing paid ad campaigns, driving organic social growth, and crafting engaging brand narratives that convert.
+              Results-driven Digital Marketing Specialist with 1+ years of experience managing social media campaigns, driving organic social growth, and crafting engaging brand narratives that convert.
             </p>
             <div className="home-btns">
               <a href="#contact" className="btn-primary-custom">Get In Touch</a>
