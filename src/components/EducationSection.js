@@ -31,14 +31,14 @@ const EducationSection = () => {
       issuer: 'SFA Infotech (Chennai)',
       date: 'Sep 2025 – Sep 2026 (1 Year)',
       icon: 'fas fa-briefcase',
-      description: 'Managing pay-per-click (PPC) digital campaigns and optimizing local business visibility.',
+      description: 'Managing end-to-end Social Media Marketing (SMM) campaigns, Meta Ads, and content strategies to maximize brand visibility and engagement.',
     },
     {
       title: 'Digital Marketing Specialist (Freelancer)',
       issuer: 'Client Campaigns & Freelance Contracts',
       date: '2025 – Present (1 Year)',
       icon: 'fas fa-briefcase',
-      description: 'Manage end-to-end SEO optimization audits, paid ads campaigns, and automated workflows. Setup pixel analytics, developed ad copies, and optimized conversions, achieving average 4.2x ROAS for client accounts.',
+      description: 'Manage end-to-end Social Media Marketing (SMM) and paid ad campaigns. Setup Meta pixel tracking, crafted high-converting ad copies and creatives, achieving average 4.2x ROAS for client accounts.',
     },
     {
       title: 'Digital Marketing Intern (Social Media Marketing)',
@@ -52,7 +52,7 @@ const EducationSection = () => {
       issuer: 'Social Eagle Academy',
       date: '2025',
       icon: 'fas fa-certificate',
-      description: 'Acquired in-depth knowledge of SEO, SEM, social media marketing, and content strategy. Learned to create and optimize Google Ads campaigns, conduct keyword research, and analyze performance using Google Analytics. Managed website design, content, branding, and logo design.',
+      description: 'Acquired in-depth expertise in Social Media Marketing (SMM), Meta Ads Manager, content strategy, and creative campaign design. Mastered audience targeting, reel engagement, and performance analytics across Instagram and Facebook.',
     },
   ];
 

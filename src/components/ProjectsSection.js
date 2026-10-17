@@ -5,11 +5,11 @@ const ProjectsSection = () => {
   const projects = [
     {
       id: 1,
-      title: 'Digital Marketing Teaching Reel',
+      title: 'Social Media Strategy Showcase',
       badge: 'Educational Showcase',
-      description: 'An educational walkthrough showcase highlighting search marketing strategies, local brand SEO setups, and client ad campaigns.',
+      description: 'An educational walkthrough showcase highlighting social media marketing strategies, viral reel hooks, and audience engagement campaigns.',
       videoUrl: `${process.env.PUBLIC_URL}/video/digitalmarketingclass teach.mp4`,
-      tags: ['SEO & SEM', 'Teaching', 'Marketing Strategy'],
+      tags: ['SMM Strategy', 'Teaching', 'Content Planning'],
       link1: '#gallery',
       link1Text: 'View Showcase',
       link2: '#contact',
