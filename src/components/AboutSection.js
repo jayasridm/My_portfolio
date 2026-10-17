@@ -4,14 +4,14 @@ import { FaUser, FaEnvelope, FaMapMarkerAlt, FaStar, FaBriefcase, FaLanguage, Fa
 const AboutSection = () => {
   const personalInfo = [
     { title: 'Name', value: 'Jayasri N', icon: <FaUser /> },
-    { title: 'Phone', value: '8668028246', icon: <FaPhone /> }, // Replace Age with Phone as it's more relevant for contact
+    { title: 'Phone', value: '+91 76959 62064', icon: <FaPhone /> }, // Contact phone number
     { title: 'Email', value: 'njayasri694@gmail.com', icon: <FaEnvelope /> },
-    { title: 'Location', value: 'Ekkattuthangal, Chennai', icon: <FaMapMarkerAlt /> },
+    { title: 'Location', value: 'Chennai', icon: <FaMapMarkerAlt /> },
   ];
 
   const professionalInfo = [
     { title: 'Experience', value: '1 Year (Digital Marketer)', icon: <FaBriefcase /> },
-    { title: 'Focus Areas', value: 'SEO, SEM, Meta Ads, SMM, Content Marketing', icon: <FaLaptopCode /> },
+    { title: 'Focus Areas', value: 'SEM, Meta Ads, SMM, Content Marketing', icon: <FaLaptopCode /> },
     { title: 'Languages', value: 'English, Tamil', icon: <FaLanguage /> },
     { title: 'Availability', value: 'Full-Time', icon: <FaStar /> },
   ];

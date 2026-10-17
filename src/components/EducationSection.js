@@ -28,15 +28,15 @@ const EducationSection = () => {
   const certificates = [
     {
       title: 'Digital Marketing Specialist',
-      issuer: 'SFA Infotech',
-      date: '2025 – Present (6 Months)',
+      issuer: 'SFA Infotech (Chennai)',
+      date: 'Sep 2025 – Sep 2026 (1 Year)',
       icon: 'fas fa-briefcase',
-      description: 'Currently working on organic search engine optimization (SEO), managing pay-per-click digital campaigns, and optimizing local business visibility.',
+      description: 'Managing pay-per-click (PPC) digital campaigns and optimizing local business visibility.',
     },
     {
       title: 'Digital Marketing Specialist (Freelancer)',
       issuer: 'Client Campaigns & Freelance Contracts',
-      date: '2024 – Present (1 Year)',
+      date: '2025 – Present (1 Year)',
       icon: 'fas fa-briefcase',
       description: 'Manage end-to-end SEO optimization audits, paid ads campaigns, and automated workflows. Setup pixel analytics, developed ad copies, and optimized conversions, achieving average 4.2x ROAS for client accounts.',
     },

@@ -20,7 +20,7 @@ const ContactSection = () => {
     const { name, email, subject, message } = formData;
     const text = `Hi Jayasri,\n\nI found your portfolio and wanted to reach out.\n\n*Name:* ${name}\n*Email:* ${email}\n*Subject:* ${subject}\n*Message:* ${message}`;
     const encodedText = encodeURIComponent(text);
-    window.open(`https://wa.me/918668028246?text=${encodedText}`, '_blank');
+    window.open(`https://wa.me/917695962064?text=${encodedText}`, '_blank');
   };
 
   return (
@@ -48,7 +48,7 @@ const ContactSection = () => {
               <div className="contact-detail-icon"><FaPhone /></div>
               <div>
                 <div className="contact-detail-label">Phone</div>
-                <a href="tel:+918668028246" className="contact-detail-value">+91 86680 28246</a>
+                <a href="tel:+917695962064" className="contact-detail-value">+91 76959 62064</a>
               </div>
             </div>
 
@@ -61,7 +61,7 @@ const ContactSection = () => {
             </div>
 
             <div className="social-icons">
-              <a href="https://wa.me/918668028246" className="icon-circle" target="_blank" rel="noopener noreferrer" title="WhatsApp">
+              <a href="https://wa.me/917695962064" className="icon-circle" target="_blank" rel="noopener noreferrer" title="WhatsApp">
                 <FaWhatsapp />
               </a>
               <a href="https://in.linkedin.com/in/n-jaya-sri-" className="icon-circle" target="_blank" rel="noopener noreferrer" title="LinkedIn">

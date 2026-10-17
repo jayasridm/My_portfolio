@@ -9,8 +9,8 @@ const CampaignGallery = () => {
     {
       id: 3,
       category: 'videos',
-      title: 'Bike Rental Promo Ad',
-      description: 'Short promotional video ad for local motorcycle rentals in Chennai.',
+      title: 'Wedding Catering Promo Ad',
+      description: 'High-impact promotional video campaign showcasing professional wedding catering services in Chennai.',
       img: `${process.env.PUBLIC_URL}/assets/images/bike_ad_poster.png`,
       embedUrl: 'https://www.youtube.com/embed/c_IFSf9-Wb0?autoplay=1',
       type: 'embed',
@@ -18,8 +18,8 @@ const CampaignGallery = () => {
     {
       id: 6,
       category: 'videos',
-      title: 'Bike Rental Experience Reel',
-      description: 'Instagram Reel highlighting user booking convenience and fleet experience.',
+      title: 'Travel Agency Experience Reel',
+      description: 'Instagram Reel showcasing curated holiday packages, travel agency itineraries, and tourist highlights.',
       img: `${process.env.PUBLIC_URL}/assets/images/marketing_video_thumbnail.png`,
       embedUrl: 'https://www.instagram.com/reel/DV8lI3pE7ez/embed/',
       type: 'embed',
